@@ -1,0 +1,13 @@
+
+1)How many people are subscribed to the term life insurance at the age upto 25?
+  Out of 111 people 23 people are subscribed to the term life insurance
+  Intrepretation: As the less count shows the Bank policies are not much Fair to those age group people(<=25)
+ 
+2)How many People from unemployed status got a Personal loan?
+  Out of 128 people only 13 people got personal loan
+  Intrepretation: As the people are unemployed providing a loan approval has high risk factor
+
+3)What is the majority of people contact(Cellular or telephone) from Bank?
+  Out of 4521 people 2896 people using Cellular ,301 people using Telephone and the remaining 1324 people contact are unknown
+  Intrepretation:As per this ratio Cellular contacts are high,Hence we can priorities by this category
+
